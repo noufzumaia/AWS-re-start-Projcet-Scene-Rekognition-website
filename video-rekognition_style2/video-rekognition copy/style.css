@@ -1,0 +1,39 @@
+body {
+  background-color: rgba(233, 239, 252, 0.374);
+}
+
+h1 {
+  color: rgb(60, 60, 146);
+  font-family: verdana;
+  font-size: 200%;
+}
+
+h2 {
+  color: rgba(59, 53, 110, 0.801);
+  font-family: verdana;
+  font-size: 100%;
+  
+}
+
+h3 {
+  color: rgb(91, 95, 210);
+  font-family: verdana;
+  font-size: 80%;
+}
+
+h4 {
+  
+  font-family: verdana;
+  font-size: 80%;
+  text-align: center;
+}
+button {
+  color: rgb(96, 25, 201);
+  font-family: verdana;
+  font-size: 90%;
+}
+
+table {
+  font-family: verdana;
+  color: rgb(144, 171, 212);
+}
